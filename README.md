@@ -1,3 +1,7 @@
+[IMPORTANTE](IMPORTANTE.md)
+[Levantar Servudor](PHP.md)
+- Mira los archivos del repositorio y dentro de la carpeta para ejemplos
+
 Para crear enlaces personalizados en Termux, puedes utilizar servicios de acortamiento de URLs como `is.gd` o `bit.ly`. Aquí te dejo un ejemplo de cómo crear un enlace personalizado usando `is.gd` en Termux:
 
 1. Instala `curl` si no lo tienes instalado:
